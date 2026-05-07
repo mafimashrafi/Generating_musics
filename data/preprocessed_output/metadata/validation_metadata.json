@@ -1,0 +1,3016 @@
+[
+  {
+    "filename": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--5",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--5.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--5_full.npy",
+    "piano_roll_shape": [
+      88,
+      6998
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--5_segments.pkl",
+    "num_segments": 109,
+    "segment_shape": [
+      109,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--5_tokens.json",
+    "num_timesteps": 6976,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_02_R1_2014_wav--1",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_02_R1_2014_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_02_R1_2014_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      5254
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_02_R1_2014_wav--1_segments.pkl",
+    "num_segments": 82,
+    "segment_shape": [
+      82,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_02_R1_2014_wav--1_tokens.json",
+    "num_timesteps": 5248,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_03_R1_2014_wav--2",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_03_R1_2014_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_03_R1_2014_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      3022
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_03_R1_2014_wav--2_segments.pkl",
+    "num_segments": 47,
+    "segment_shape": [
+      47,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_03_R1_2014_wav--2_tokens.json",
+    "num_timesteps": 3008,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_04_R1_2014_wav--3",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_04_R1_2014_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_04_R1_2014_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      18059
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_04_R1_2014_wav--3_segments.pkl",
+    "num_segments": 282,
+    "segment_shape": [
+      282,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_04_R1_2014_wav--3_tokens.json",
+    "num_timesteps": 18048,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--4",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      4146
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--4_segments.pkl",
+    "num_segments": 64,
+    "segment_shape": [
+      64,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--4_tokens.json",
+    "num_timesteps": 4096,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--5",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--5.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--5_full.npy",
+    "piano_roll_shape": [
+      88,
+      1958
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--5_segments.pkl",
+    "num_segments": 30,
+    "segment_shape": [
+      30,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--5_tokens.json",
+    "num_timesteps": 1920,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_04-08-12_R3_2014_MID--AUDIO_12_R3_2014_wav--2",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_04-08-12_R3_2014_MID--AUDIO_12_R3_2014_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_04-08-12_R3_2014_MID--AUDIO_12_R3_2014_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      12414
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_04-08-12_R3_2014_MID--AUDIO_12_R3_2014_wav--2_segments.pkl",
+    "num_segments": 193,
+    "segment_shape": [
+      193,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_04-08-12_R3_2014_MID--AUDIO_12_R3_2014_wav--2_tokens.json",
+    "num_timesteps": 12352,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--3",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      5850
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--3_segments.pkl",
+    "num_segments": 91,
+    "segment_shape": [
+      91,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--3_tokens.json",
+    "num_timesteps": 5824,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--4",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      5118
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--4_segments.pkl",
+    "num_segments": 79,
+    "segment_shape": [
+      79,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--4_tokens.json",
+    "num_timesteps": 5056,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_16-18_R1_2014_MID--AUDIO_16_R1_2014_wav--2",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_16-18_R1_2014_MID--AUDIO_16_R1_2014_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_16-18_R1_2014_MID--AUDIO_16_R1_2014_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      21135
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_16-18_R1_2014_MID--AUDIO_16_R1_2014_wav--2_segments.pkl",
+    "num_segments": 330,
+    "segment_shape": [
+      330,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_16-18_R1_2014_MID--AUDIO_16_R1_2014_wav--2_tokens.json",
+    "num_timesteps": 21120,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-UNPROCESSED_19-20_R1_2014_MID--AUDIO_20_R1_2014_wav--2",
+    "original_file": "data/processed/validation/MIDI-UNPROCESSED_19-20_R1_2014_MID--AUDIO_20_R1_2014_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-UNPROCESSED_19-20_R1_2014_MID--AUDIO_20_R1_2014_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      26150
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-UNPROCESSED_19-20_R1_2014_MID--AUDIO_20_R1_2014_wav--2_segments.pkl",
+    "num_segments": 408,
+    "segment_shape": [
+      408,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-UNPROCESSED_19-20_R1_2014_MID--AUDIO_20_R1_2014_wav--2_tokens.json",
+    "num_timesteps": 26112,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_01_R1_2011_MID--AUDIO_R1-D1_06_Track06_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_01_R1_2011_MID--AUDIO_R1-D1_06_Track06_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_01_R1_2011_MID--AUDIO_R1-D1_06_Track06_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      8111
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_01_R1_2011_MID--AUDIO_R1-D1_06_Track06_wav_segments.pkl",
+    "num_segments": 126,
+    "segment_shape": [
+      126,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_01_R1_2011_MID--AUDIO_R1-D1_06_Track06_wav_tokens.json",
+    "num_timesteps": 8064,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_02_R1_2008_01-05_ORIG_MID--AUDIO_02_R1_2008_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_02_R1_2008_01-05_ORIG_MID--AUDIO_02_R1_2008_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_02_R1_2008_01-05_ORIG_MID--AUDIO_02_R1_2008_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      1216
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_02_R1_2008_01-05_ORIG_MID--AUDIO_02_R1_2008_wav--3_segments.pkl",
+    "num_segments": 19,
+    "segment_shape": [
+      19,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_02_R1_2008_01-05_ORIG_MID--AUDIO_02_R1_2008_wav--3_tokens.json",
+    "num_timesteps": 1216,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_02_R1_2009_03-06_ORIG_MID--AUDIO_02_R1_2009_02_R1_2009_05_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_02_R1_2009_03-06_ORIG_MID--AUDIO_02_R1_2009_02_R1_2009_05_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_02_R1_2009_03-06_ORIG_MID--AUDIO_02_R1_2009_02_R1_2009_05_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      2691
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_02_R1_2009_03-06_ORIG_MID--AUDIO_02_R1_2009_02_R1_2009_05_WAV_segments.pkl",
+    "num_segments": 42,
+    "segment_shape": [
+      42,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_02_R1_2009_03-06_ORIG_MID--AUDIO_02_R1_2009_02_R1_2009_05_WAV_tokens.json",
+    "num_timesteps": 2688,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_02_R2_2011_MID--AUDIO_R2-D1_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_02_R2_2011_MID--AUDIO_R2-D1_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_02_R2_2011_MID--AUDIO_R2-D1_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      4180
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_02_R2_2011_MID--AUDIO_R2-D1_03_Track03_wav_segments.pkl",
+    "num_segments": 65,
+    "segment_shape": [
+      65,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_02_R2_2011_MID--AUDIO_R2-D1_03_Track03_wav_tokens.json",
+    "num_timesteps": 4160,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_03_R1_2011_MID--AUDIO_R1-D1_19_Track19_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_03_R1_2011_MID--AUDIO_R1-D1_19_Track19_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_03_R1_2011_MID--AUDIO_R1-D1_19_Track19_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      9064
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_03_R1_2011_MID--AUDIO_R1-D1_19_Track19_wav_segments.pkl",
+    "num_segments": 141,
+    "segment_shape": [
+      141,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_03_R1_2011_MID--AUDIO_R1-D1_19_Track19_wav_tokens.json",
+    "num_timesteps": 9024,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_03_R3_2011_MID--AUDIO_R3-D1_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_03_R3_2011_MID--AUDIO_R3-D1_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_03_R3_2011_MID--AUDIO_R3-D1_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      2057
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_03_R3_2011_MID--AUDIO_R3-D1_03_Track03_wav_segments.pkl",
+    "num_segments": 32,
+    "segment_shape": [
+      32,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_03_R3_2011_MID--AUDIO_R3-D1_03_Track03_wav_tokens.json",
+    "num_timesteps": 2048,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_043_PIANO043_MID--AUDIO-split_07-06-17_Piano-e_1-03_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_043_PIANO043_MID--AUDIO-split_07-06-17_Piano-e_1-03_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_043_PIANO043_MID--AUDIO-split_07-06-17_Piano-e_1-03_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      6172
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_043_PIANO043_MID--AUDIO-split_07-06-17_Piano-e_1-03_wav--1_segments.pkl",
+    "num_segments": 96,
+    "segment_shape": [
+      96,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_043_PIANO043_MID--AUDIO-split_07-06-17_Piano-e_1-03_wav--1_tokens.json",
+    "num_timesteps": 6144,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_044_PIANO044_MID--AUDIO-split_07-06-17_Piano-e_1-04_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_044_PIANO044_MID--AUDIO-split_07-06-17_Piano-e_1-04_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_044_PIANO044_MID--AUDIO-split_07-06-17_Piano-e_1-04_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      7147
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_044_PIANO044_MID--AUDIO-split_07-06-17_Piano-e_1-04_wav--1_segments.pkl",
+    "num_segments": 111,
+    "segment_shape": [
+      111,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_044_PIANO044_MID--AUDIO-split_07-06-17_Piano-e_1-04_wav--1_tokens.json",
+    "num_timesteps": 7104,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      2592
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--4_segments.pkl",
+    "num_segments": 40,
+    "segment_shape": [
+      40,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--4_tokens.json",
+    "num_timesteps": 2560,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_04_R1_2009_04-06_ORIG_MID--AUDIO_04_R1_2009_04_R1_2009_04_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_04_R1_2009_04-06_ORIG_MID--AUDIO_04_R1_2009_04_R1_2009_04_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_04_R1_2009_04-06_ORIG_MID--AUDIO_04_R1_2009_04_R1_2009_04_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      6600
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_04_R1_2009_04-06_ORIG_MID--AUDIO_04_R1_2009_04_R1_2009_04_WAV_segments.pkl",
+    "num_segments": 103,
+    "segment_shape": [
+      103,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_04_R1_2009_04-06_ORIG_MID--AUDIO_04_R1_2009_04_R1_2009_04_WAV_tokens.json",
+    "num_timesteps": 6592,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      883
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--2_segments.pkl",
+    "num_segments": 13,
+    "segment_shape": [
+      13,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--2_tokens.json",
+    "num_timesteps": 832,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      7223
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--1_segments.pkl",
+    "num_segments": 112,
+    "segment_shape": [
+      112,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--1_tokens.json",
+    "num_timesteps": 7168,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      5119
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--2_segments.pkl",
+    "num_segments": 79,
+    "segment_shape": [
+      79,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--2_tokens.json",
+    "num_timesteps": 5056,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_055_PIANO055_MID--AUDIO-split_07-07-17_Piano-e_1-04_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_055_PIANO055_MID--AUDIO-split_07-07-17_Piano-e_1-04_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_055_PIANO055_MID--AUDIO-split_07-07-17_Piano-e_1-04_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      4354
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_055_PIANO055_MID--AUDIO-split_07-07-17_Piano-e_1-04_wav--3_segments.pkl",
+    "num_segments": 68,
+    "segment_shape": [
+      68,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_055_PIANO055_MID--AUDIO-split_07-07-17_Piano-e_1-04_wav--3_tokens.json",
+    "num_timesteps": 4352,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      1535
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--2_segments.pkl",
+    "num_segments": 23,
+    "segment_shape": [
+      23,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--2_tokens.json",
+    "num_timesteps": 1472,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      5163
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--3_segments.pkl",
+    "num_segments": 80,
+    "segment_shape": [
+      80,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--3_tokens.json",
+    "num_timesteps": 5120,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      5506
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--4_segments.pkl",
+    "num_segments": 86,
+    "segment_shape": [
+      86,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_058_PIANO058_MID--AUDIO-split_07-07-17_Piano-e_2-02_wav--4_tokens.json",
+    "num_timesteps": 5504,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_05_R1_2008_01-04_ORIG_MID--AUDIO_05_R1_2008_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_05_R1_2008_01-04_ORIG_MID--AUDIO_05_R1_2008_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_05_R1_2008_01-04_ORIG_MID--AUDIO_05_R1_2008_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      6993
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_05_R1_2008_01-04_ORIG_MID--AUDIO_05_R1_2008_wav--1_segments.pkl",
+    "num_segments": 109,
+    "segment_shape": [
+      109,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_05_R1_2008_01-04_ORIG_MID--AUDIO_05_R1_2008_wav--1_tokens.json",
+    "num_timesteps": 6976,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_060_PIANO060_MID--AUDIO-split_07-07-17_Piano-e_2-04_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_060_PIANO060_MID--AUDIO-split_07-07-17_Piano-e_2-04_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_060_PIANO060_MID--AUDIO-split_07-07-17_Piano-e_2-04_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      1476
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_060_PIANO060_MID--AUDIO-split_07-07-17_Piano-e_2-04_wav--3_segments.pkl",
+    "num_segments": 23,
+    "segment_shape": [
+      23,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_060_PIANO060_MID--AUDIO-split_07-07-17_Piano-e_2-04_wav--3_tokens.json",
+    "num_timesteps": 1472,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_061_PIANO061_MID--AUDIO-split_07-07-17_Piano-e_2-05_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_061_PIANO061_MID--AUDIO-split_07-07-17_Piano-e_2-05_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_061_PIANO061_MID--AUDIO-split_07-07-17_Piano-e_2-05_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      11448
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_061_PIANO061_MID--AUDIO-split_07-07-17_Piano-e_2-05_wav--3_segments.pkl",
+    "num_segments": 178,
+    "segment_shape": [
+      178,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_061_PIANO061_MID--AUDIO-split_07-07-17_Piano-e_2-05_wav--3_tokens.json",
+    "num_timesteps": 11392,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      1601
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--3_segments.pkl",
+    "num_segments": 25,
+    "segment_shape": [
+      25,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--3_tokens.json",
+    "num_timesteps": 1600,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      3337
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--1_segments.pkl",
+    "num_segments": 52,
+    "segment_shape": [
+      52,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--1_tokens.json",
+    "num_timesteps": 3328,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_05_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_05_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_05_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      5944
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_05_WAV_segments.pkl",
+    "num_segments": 92,
+    "segment_shape": [
+      92,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_05_WAV_tokens.json",
+    "num_timesteps": 5888,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_06_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_06_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_06_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      12269
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_06_WAV_segments.pkl",
+    "num_segments": 191,
+    "segment_shape": [
+      191,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_06_WAV_tokens.json",
+    "num_timesteps": 12224,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_06_R3_2011_MID--AUDIO_R3-D3_05_Track05_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_06_R3_2011_MID--AUDIO_R3-D3_05_Track05_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_06_R3_2011_MID--AUDIO_R3-D3_05_Track05_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3593
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_06_R3_2011_MID--AUDIO_R3-D3_05_Track05_wav_segments.pkl",
+    "num_segments": 56,
+    "segment_shape": [
+      56,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_06_R3_2011_MID--AUDIO_R3-D3_05_Track05_wav_tokens.json",
+    "num_timesteps": 3584,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_072_PIANO072_MID--AUDIO-split_07-08-17_Piano-e_1-06_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_072_PIANO072_MID--AUDIO-split_07-08-17_Piano-e_1-06_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_072_PIANO072_MID--AUDIO-split_07-08-17_Piano-e_1-06_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      6624
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_072_PIANO072_MID--AUDIO-split_07-08-17_Piano-e_1-06_wav--3_segments.pkl",
+    "num_segments": 103,
+    "segment_shape": [
+      103,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_072_PIANO072_MID--AUDIO-split_07-08-17_Piano-e_1-06_wav--3_tokens.json",
+    "num_timesteps": 6592,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_073_PIANO073_MID--AUDIO-split_07-08-17_Piano-e_2-02_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_073_PIANO073_MID--AUDIO-split_07-08-17_Piano-e_2-02_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_073_PIANO073_MID--AUDIO-split_07-08-17_Piano-e_2-02_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      15700
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_073_PIANO073_MID--AUDIO-split_07-08-17_Piano-e_2-02_wav--4_segments.pkl",
+    "num_segments": 245,
+    "segment_shape": [
+      245,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_073_PIANO073_MID--AUDIO-split_07-08-17_Piano-e_2-02_wav--4_tokens.json",
+    "num_timesteps": 15680,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      4936
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--2_segments.pkl",
+    "num_segments": 77,
+    "segment_shape": [
+      77,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--2_tokens.json",
+    "num_timesteps": 4928,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      4114
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--3_segments.pkl",
+    "num_segments": 64,
+    "segment_shape": [
+      64,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--3_tokens.json",
+    "num_timesteps": 4096,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_07_R1_2009_01-03_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_02_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_07_R1_2009_01-03_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_02_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_07_R1_2009_01-03_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_02_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      22830
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_07_R1_2009_01-03_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_02_WAV_segments.pkl",
+    "num_segments": 356,
+    "segment_shape": [
+      356,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_07_R1_2009_01-03_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_02_WAV_tokens.json",
+    "num_timesteps": 22784,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_07_R1_2009_04-05_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_04_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_07_R1_2009_04-05_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_04_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_07_R1_2009_04-05_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_04_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      6408
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_07_R1_2009_04-05_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_04_WAV_segments.pkl",
+    "num_segments": 100,
+    "segment_shape": [
+      100,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_07_R1_2009_04-05_ORIG_MID--AUDIO_07_R1_2009_07_R1_2009_04_WAV_tokens.json",
+    "num_timesteps": 6400,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_07_R1_2011_MID--AUDIO_R1-D3_05_Track05_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_07_R1_2011_MID--AUDIO_R1-D3_05_Track05_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_07_R1_2011_MID--AUDIO_R1-D3_05_Track05_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      8440
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_07_R1_2011_MID--AUDIO_R1-D3_05_Track05_wav_segments.pkl",
+    "num_segments": 131,
+    "segment_shape": [
+      131,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_07_R1_2011_MID--AUDIO_R1-D3_05_Track05_wav_tokens.json",
+    "num_timesteps": 8384,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      1521
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--2_segments.pkl",
+    "num_segments": 23,
+    "segment_shape": [
+      23,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--2_tokens.json",
+    "num_timesteps": 1472,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      1995
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--3_segments.pkl",
+    "num_segments": 31,
+    "segment_shape": [
+      31,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--3_tokens.json",
+    "num_timesteps": 1984,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_083_PIANO083_MID--AUDIO-split_07-09-17_Piano-e_2_-06_wav--5",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_083_PIANO083_MID--AUDIO-split_07-09-17_Piano-e_2_-06_wav--5.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_083_PIANO083_MID--AUDIO-split_07-09-17_Piano-e_2_-06_wav--5_full.npy",
+    "piano_roll_shape": [
+      88,
+      4291
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_083_PIANO083_MID--AUDIO-split_07-09-17_Piano-e_2_-06_wav--5_segments.pkl",
+    "num_segments": 67,
+    "segment_shape": [
+      67,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_083_PIANO083_MID--AUDIO-split_07-09-17_Piano-e_2_-06_wav--5_tokens.json",
+    "num_timesteps": 4288,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_08_R1_2006_01-04_ORIG_MID--AUDIO_08_R1_2006_Disk1_02_Track02_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_08_R1_2006_01-04_ORIG_MID--AUDIO_08_R1_2006_Disk1_02_Track02_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_08_R1_2006_01-04_ORIG_MID--AUDIO_08_R1_2006_Disk1_02_Track02_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      8936
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_08_R1_2006_01-04_ORIG_MID--AUDIO_08_R1_2006_Disk1_02_Track02_wav_segments.pkl",
+    "num_segments": 139,
+    "segment_shape": [
+      139,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_08_R1_2006_01-04_ORIG_MID--AUDIO_08_R1_2006_Disk1_02_Track02_wav_tokens.json",
+    "num_timesteps": 8896,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_08_R1_2009_01-04_ORIG_MID--AUDIO_08_R1_2009_08_R1_2009_02_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_08_R1_2009_01-04_ORIG_MID--AUDIO_08_R1_2009_08_R1_2009_02_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_08_R1_2009_01-04_ORIG_MID--AUDIO_08_R1_2009_08_R1_2009_02_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      5397
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_08_R1_2009_01-04_ORIG_MID--AUDIO_08_R1_2009_08_R1_2009_02_WAV_segments.pkl",
+    "num_segments": 84,
+    "segment_shape": [
+      84,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_08_R1_2009_01-04_ORIG_MID--AUDIO_08_R1_2009_08_R1_2009_02_WAV_tokens.json",
+    "num_timesteps": 5376,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_01_Track01_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_01_Track01_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_01_Track01_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      11161
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_01_Track01_wav_segments.pkl",
+    "num_segments": 174,
+    "segment_shape": [
+      174,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_01_Track01_wav_tokens.json",
+    "num_timesteps": 11136,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      17710
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_03_Track03_wav_segments.pkl",
+    "num_segments": 276,
+    "segment_shape": [
+      276,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_09_R1_2006_01-04_ORIG_MID--AUDIO_09_R1_2006_03_Track03_wav_tokens.json",
+    "num_timesteps": 17664,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      2465
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--4_segments.pkl",
+    "num_segments": 38,
+    "segment_shape": [
+      38,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--4_tokens.json",
+    "num_timesteps": 2432,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_09_R1_2009_05-06_ORIG_MID--AUDIO_09_R1_2009_09_R1_2009_05_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_09_R1_2009_05-06_ORIG_MID--AUDIO_09_R1_2009_09_R1_2009_05_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_09_R1_2009_05-06_ORIG_MID--AUDIO_09_R1_2009_09_R1_2009_05_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      25237
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_09_R1_2009_05-06_ORIG_MID--AUDIO_09_R1_2009_09_R1_2009_05_WAV_segments.pkl",
+    "num_segments": 394,
+    "segment_shape": [
+      394,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_09_R1_2009_05-06_ORIG_MID--AUDIO_09_R1_2009_09_R1_2009_05_WAV_tokens.json",
+    "num_timesteps": 25216,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_09_R2_2008_01-05_ORIG_MID--AUDIO_09_R2_2008_wav--5",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_09_R2_2008_01-05_ORIG_MID--AUDIO_09_R2_2008_wav--5.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_09_R2_2008_01-05_ORIG_MID--AUDIO_09_R2_2008_wav--5_full.npy",
+    "piano_roll_shape": [
+      88,
+      8476
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_09_R2_2008_01-05_ORIG_MID--AUDIO_09_R2_2008_wav--5_segments.pkl",
+    "num_segments": 132,
+    "segment_shape": [
+      132,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_09_R2_2008_01-05_ORIG_MID--AUDIO_09_R2_2008_wav--5_tokens.json",
+    "num_timesteps": 8448,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_09_R3_2008_01-07_ORIG_MID--AUDIO_09_R3_2008_wav--7",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_09_R3_2008_01-07_ORIG_MID--AUDIO_09_R3_2008_wav--7.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_09_R3_2008_01-07_ORIG_MID--AUDIO_09_R3_2008_wav--7_full.npy",
+    "piano_roll_shape": [
+      88,
+      4935
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_09_R3_2008_01-07_ORIG_MID--AUDIO_09_R3_2008_wav--7_segments.pkl",
+    "num_segments": 77,
+    "segment_shape": [
+      77,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_09_R3_2008_01-07_ORIG_MID--AUDIO_09_R3_2008_wav--7_tokens.json",
+    "num_timesteps": 4928,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_10_R1_2011_MID--AUDIO_R1-D4_05_Track05_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_10_R1_2011_MID--AUDIO_R1-D4_05_Track05_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_10_R1_2011_MID--AUDIO_R1-D4_05_Track05_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      8119
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_10_R1_2011_MID--AUDIO_R1-D4_05_Track05_wav_segments.pkl",
+    "num_segments": 126,
+    "segment_shape": [
+      126,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_10_R1_2011_MID--AUDIO_R1-D4_05_Track05_wav_tokens.json",
+    "num_timesteps": 8064,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_11_R1_2009_06-09_ORIG_MID--AUDIO_11_R1_2009_11_R1_2009_06_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_11_R1_2009_06-09_ORIG_MID--AUDIO_11_R1_2009_11_R1_2009_06_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_11_R1_2009_06-09_ORIG_MID--AUDIO_11_R1_2009_11_R1_2009_06_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      2285
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_11_R1_2009_06-09_ORIG_MID--AUDIO_11_R1_2009_11_R1_2009_06_WAV_segments.pkl",
+    "num_segments": 35,
+    "segment_shape": [
+      35,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_11_R1_2009_06-09_ORIG_MID--AUDIO_11_R1_2009_11_R1_2009_06_WAV_tokens.json",
+    "num_timesteps": 2240,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      2225
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_03_Track03_wav_segments.pkl",
+    "num_segments": 34,
+    "segment_shape": [
+      34,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_03_Track03_wav_tokens.json",
+    "num_timesteps": 2176,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_04_Track04_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_04_Track04_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_04_Track04_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3229
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_04_Track04_wav_segments.pkl",
+    "num_segments": 50,
+    "segment_shape": [
+      50,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_12_R1_2006_01-08_ORIG_MID--AUDIO_12_R1_2006_04_Track04_wav_tokens.json",
+    "num_timesteps": 3200,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_12_R1_2008_01-04_ORIG_MID--AUDIO_12_R1_2008_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_12_R1_2008_01-04_ORIG_MID--AUDIO_12_R1_2008_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_12_R1_2008_01-04_ORIG_MID--AUDIO_12_R1_2008_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      2540
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_12_R1_2008_01-04_ORIG_MID--AUDIO_12_R1_2008_wav--3_segments.pkl",
+    "num_segments": 39,
+    "segment_shape": [
+      39,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_12_R1_2008_01-04_ORIG_MID--AUDIO_12_R1_2008_wav--3_tokens.json",
+    "num_timesteps": 2496,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_12_R1_2009_03-05_ORIG_MID--AUDIO_12_R1_2009_12_R1_2009_05_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_12_R1_2009_03-05_ORIG_MID--AUDIO_12_R1_2009_12_R1_2009_05_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_12_R1_2009_03-05_ORIG_MID--AUDIO_12_R1_2009_12_R1_2009_05_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      9761
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_12_R1_2009_03-05_ORIG_MID--AUDIO_12_R1_2009_12_R1_2009_05_WAV_segments.pkl",
+    "num_segments": 152,
+    "segment_shape": [
+      152,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_12_R1_2009_03-05_ORIG_MID--AUDIO_12_R1_2009_12_R1_2009_05_WAV_tokens.json",
+    "num_timesteps": 9728,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_12_R2_2011_MID--AUDIO_R2-D4_02_Track02_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_12_R2_2011_MID--AUDIO_R2-D4_02_Track02_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_12_R2_2011_MID--AUDIO_R2-D4_02_Track02_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      6055
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_12_R2_2011_MID--AUDIO_R2-D4_02_Track02_wav_segments.pkl",
+    "num_segments": 94,
+    "segment_shape": [
+      94,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_12_R2_2011_MID--AUDIO_R2-D4_02_Track02_wav_tokens.json",
+    "num_timesteps": 6016,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_12_R3_2011_MID--AUDIO_R3-D4_02_Track02_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_12_R3_2011_MID--AUDIO_R3-D4_02_Track02_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_12_R3_2011_MID--AUDIO_R3-D4_02_Track02_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      2225
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_12_R3_2011_MID--AUDIO_R3-D4_02_Track02_wav_segments.pkl",
+    "num_segments": 34,
+    "segment_shape": [
+      34,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_12_R3_2011_MID--AUDIO_R3-D4_02_Track02_wav_tokens.json",
+    "num_timesteps": 2176,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_05_Track05_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_05_Track05_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_05_Track05_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      7869
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_05_Track05_wav_segments.pkl",
+    "num_segments": 122,
+    "segment_shape": [
+      122,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_05_Track05_wav_tokens.json",
+    "num_timesteps": 7808,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_14_R1_2006_01-05_ORIG_MID--AUDIO_14_R1_2006_04_Track04_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_14_R1_2006_01-05_ORIG_MID--AUDIO_14_R1_2006_04_Track04_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_14_R1_2006_01-05_ORIG_MID--AUDIO_14_R1_2006_04_Track04_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      5882
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_14_R1_2006_01-05_ORIG_MID--AUDIO_14_R1_2006_04_Track04_wav_segments.pkl",
+    "num_segments": 91,
+    "segment_shape": [
+      91,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_14_R1_2006_01-05_ORIG_MID--AUDIO_14_R1_2006_04_Track04_wav_tokens.json",
+    "num_timesteps": 5824,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      4196
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4_segments.pkl",
+    "num_segments": 65,
+    "segment_shape": [
+      65,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4_tokens.json",
+    "num_timesteps": 4160,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_02_Track02_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_02_Track02_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_02_Track02_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3675
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_02_Track02_wav_segments.pkl",
+    "num_segments": 57,
+    "segment_shape": [
+      57,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_02_Track02_wav_tokens.json",
+    "num_timesteps": 3648,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      1702
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--2_segments.pkl",
+    "num_segments": 26,
+    "segment_shape": [
+      26,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--2_tokens.json",
+    "num_timesteps": 1664,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      10079
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--4_segments.pkl",
+    "num_segments": 157,
+    "segment_shape": [
+      157,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_15_R2_2008_01-04_ORIG_MID--AUDIO_15_R2_2008_wav--4_tokens.json",
+    "num_timesteps": 10048,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_16_R1_2006_01-04_ORIG_MID--AUDIO_16_R1_2006_01_Track01_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_16_R1_2006_01-04_ORIG_MID--AUDIO_16_R1_2006_01_Track01_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_16_R1_2006_01-04_ORIG_MID--AUDIO_16_R1_2006_01_Track01_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      17208
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_16_R1_2006_01-04_ORIG_MID--AUDIO_16_R1_2006_01_Track01_wav_segments.pkl",
+    "num_segments": 268,
+    "segment_shape": [
+      268,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_16_R1_2006_01-04_ORIG_MID--AUDIO_16_R1_2006_01_Track01_wav_tokens.json",
+    "num_timesteps": 17152,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_16_R1_2008_01-04_ORIG_MID--AUDIO_16_R1_2008_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_16_R1_2008_01-04_ORIG_MID--AUDIO_16_R1_2008_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_16_R1_2008_01-04_ORIG_MID--AUDIO_16_R1_2008_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      4749
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_16_R1_2008_01-04_ORIG_MID--AUDIO_16_R1_2008_wav--3_segments.pkl",
+    "num_segments": 74,
+    "segment_shape": [
+      74,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_16_R1_2008_01-04_ORIG_MID--AUDIO_16_R1_2008_wav--3_tokens.json",
+    "num_timesteps": 4736,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_16_R1_2009_01-02_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_01_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_16_R1_2009_01-02_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_01_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_16_R1_2009_01-02_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_01_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      24489
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_16_R1_2009_01-02_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_01_WAV_segments.pkl",
+    "num_segments": 382,
+    "segment_shape": [
+      382,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_16_R1_2009_01-02_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_01_WAV_tokens.json",
+    "num_timesteps": 24448,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_16_R1_2009_03-06_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_03_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_16_R1_2009_03-06_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_03_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_16_R1_2009_03-06_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_03_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      10063
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_16_R1_2009_03-06_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_03_WAV_segments.pkl",
+    "num_segments": 157,
+    "segment_shape": [
+      157,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_16_R1_2009_03-06_ORIG_MID--AUDIO_16_R1_2009_16_R1_2009_03_WAV_tokens.json",
+    "num_timesteps": 10048,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_15_Track15_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_15_Track15_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_15_Track15_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      5751
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_15_Track15_wav_segments.pkl",
+    "num_segments": 89,
+    "segment_shape": [
+      89,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_15_Track15_wav_tokens.json",
+    "num_timesteps": 5696,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_16_R2_2009_01_ORIG_MID--AUDIO_16_R2_2009_16_R2_2009_03_WAV",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_16_R2_2009_01_ORIG_MID--AUDIO_16_R2_2009_16_R2_2009_03_WAV.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_16_R2_2009_01_ORIG_MID--AUDIO_16_R2_2009_16_R2_2009_03_WAV_full.npy",
+    "piano_roll_shape": [
+      88,
+      5005
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_16_R2_2009_01_ORIG_MID--AUDIO_16_R2_2009_16_R2_2009_03_WAV_segments.pkl",
+    "num_segments": 78,
+    "segment_shape": [
+      78,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_16_R2_2009_01_ORIG_MID--AUDIO_16_R2_2009_16_R2_2009_03_WAV_tokens.json",
+    "num_timesteps": 4992,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_17_R1_2006_01-06_ORIG_MID--AUDIO_17_R1_2006_04_Track04_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_17_R1_2006_01-06_ORIG_MID--AUDIO_17_R1_2006_04_Track04_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_17_R1_2006_01-06_ORIG_MID--AUDIO_17_R1_2006_04_Track04_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      6393
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_17_R1_2006_01-06_ORIG_MID--AUDIO_17_R1_2006_04_Track04_wav_segments.pkl",
+    "num_segments": 99,
+    "segment_shape": [
+      99,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_17_R1_2006_01-06_ORIG_MID--AUDIO_17_R1_2006_04_Track04_wav_tokens.json",
+    "num_timesteps": 6336,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_17_R1_2008_01-04_ORIG_MID--AUDIO_17_R1_2008_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_17_R1_2008_01-04_ORIG_MID--AUDIO_17_R1_2008_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_17_R1_2008_01-04_ORIG_MID--AUDIO_17_R1_2008_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      5177
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_17_R1_2008_01-04_ORIG_MID--AUDIO_17_R1_2008_wav--1_segments.pkl",
+    "num_segments": 80,
+    "segment_shape": [
+      80,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_17_R1_2008_01-04_ORIG_MID--AUDIO_17_R1_2008_wav--1_tokens.json",
+    "num_timesteps": 5120,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      26789
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_03_Track03_wav_segments.pkl",
+    "num_segments": 418,
+    "segment_shape": [
+      418,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_03_Track03_wav_tokens.json",
+    "num_timesteps": 26752,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_06_Track06_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_06_Track06_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_06_Track06_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      6866
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_06_Track06_wav_segments.pkl",
+    "num_segments": 107,
+    "segment_shape": [
+      107,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_06_Track06_wav_tokens.json",
+    "num_timesteps": 6848,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_07_Track07_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_07_Track07_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_07_Track07_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      5687
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_07_Track07_wav_segments.pkl",
+    "num_segments": 88,
+    "segment_shape": [
+      88,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_19_R1_2006_01-07_ORIG_MID--AUDIO_19_R1_2006_07_Track07_wav_tokens.json",
+    "num_timesteps": 5632,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_10_Track10_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_10_Track10_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_10_Track10_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      8560
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_10_Track10_wav_segments.pkl",
+    "num_segments": 133,
+    "segment_shape": [
+      133,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_10_Track10_wav_tokens.json",
+    "num_timesteps": 8512,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_22_R1_2006_01-04_ORIG_MID--AUDIO_22_R1_2006_02_Track02_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_22_R1_2006_01-04_ORIG_MID--AUDIO_22_R1_2006_02_Track02_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_22_R1_2006_01-04_ORIG_MID--AUDIO_22_R1_2006_02_Track02_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      19014
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_22_R1_2006_01-04_ORIG_MID--AUDIO_22_R1_2006_02_Track02_wav_segments.pkl",
+    "num_segments": 297,
+    "segment_shape": [
+      297,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_22_R1_2006_01-04_ORIG_MID--AUDIO_22_R1_2006_02_Track02_wav_tokens.json",
+    "num_timesteps": 19008,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_23_R1_2006_01-05_ORIG_MID--AUDIO_23_R1_2006_02_Track02_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_23_R1_2006_01-05_ORIG_MID--AUDIO_23_R1_2006_02_Track02_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_23_R1_2006_01-05_ORIG_MID--AUDIO_23_R1_2006_02_Track02_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      13303
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_23_R1_2006_01-05_ORIG_MID--AUDIO_23_R1_2006_02_Track02_wav_segments.pkl",
+    "num_segments": 207,
+    "segment_shape": [
+      207,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_23_R1_2006_01-05_ORIG_MID--AUDIO_23_R1_2006_02_Track02_wav_tokens.json",
+    "num_timesteps": 13248,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_23_R1_2011_MID--AUDIO_R1-D9_05_Track05_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_23_R1_2011_MID--AUDIO_R1-D9_05_Track05_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_23_R1_2011_MID--AUDIO_R1-D9_05_Track05_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      2498
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_23_R1_2011_MID--AUDIO_R1-D9_05_Track05_wav_segments.pkl",
+    "num_segments": 39,
+    "segment_shape": [
+      39,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_23_R1_2011_MID--AUDIO_R1-D9_05_Track05_wav_tokens.json",
+    "num_timesteps": 2496,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_23_R3_2011_MID--AUDIO_R3-D8_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_23_R3_2011_MID--AUDIO_R3-D8_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_23_R3_2011_MID--AUDIO_R3-D8_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3959
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_23_R3_2011_MID--AUDIO_R3-D8_03_Track03_wav_segments.pkl",
+    "num_segments": 61,
+    "segment_shape": [
+      61,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_23_R3_2011_MID--AUDIO_R3-D8_03_Track03_wav_tokens.json",
+    "num_timesteps": 3904,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_25_R3_2011_MID--AUDIO_R3-D9_05_Track05_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_25_R3_2011_MID--AUDIO_R3-D9_05_Track05_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_25_R3_2011_MID--AUDIO_R3-D9_05_Track05_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      4753
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_25_R3_2011_MID--AUDIO_R3-D9_05_Track05_wav_segments.pkl",
+    "num_segments": 74,
+    "segment_shape": [
+      74,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_25_R3_2011_MID--AUDIO_R3-D9_05_Track05_wav_tokens.json",
+    "num_timesteps": 4736,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Chamber3_MID--AUDIO_10_R3_2018_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Chamber3_MID--AUDIO_10_R3_2018_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Chamber3_MID--AUDIO_10_R3_2018_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      13354
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Chamber3_MID--AUDIO_10_R3_2018_wav--2_segments.pkl",
+    "num_segments": 208,
+    "segment_shape": [
+      208,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Chamber3_MID--AUDIO_10_R3_2018_wav--2_tokens.json",
+    "num_timesteps": 13312,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Chamber6_MID--AUDIO_20_R3_2018_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Chamber6_MID--AUDIO_20_R3_2018_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Chamber6_MID--AUDIO_20_R3_2018_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      8458
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Chamber6_MID--AUDIO_20_R3_2018_wav--1_segments.pkl",
+    "num_segments": 132,
+    "segment_shape": [
+      132,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Chamber6_MID--AUDIO_20_R3_2018_wav--1_tokens.json",
+    "num_timesteps": 8448,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_01_R1_2015_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_01_R1_2015_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_01_R1_2015_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      4807
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_01_R1_2015_wav--2_segments.pkl",
+    "num_segments": 75,
+    "segment_shape": [
+      75,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_01_R1_2015_wav--2_tokens.json",
+    "num_timesteps": 4800,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      5385
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--3_segments.pkl",
+    "num_segments": 84,
+    "segment_shape": [
+      84,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--3_tokens.json",
+    "num_timesteps": 5376,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      8639
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--4_segments.pkl",
+    "num_segments": 134,
+    "segment_shape": [
+      134,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_03_R1_2015_wav--4_tokens.json",
+    "num_timesteps": 8576,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_04_R1_2015_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_04_R1_2015_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_04_R1_2015_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      4486
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_04_R1_2015_wav--3_segments.pkl",
+    "num_segments": 70,
+    "segment_shape": [
+      70,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_04_R1_2015_wav--3_tokens.json",
+    "num_timesteps": 4480,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_05_R1_2015_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_05_R1_2015_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_05_R1_2015_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      5499
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_05_R1_2015_wav--1_segments.pkl",
+    "num_segments": 85,
+    "segment_shape": [
+      85,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_05_R1_2015_wav--1_tokens.json",
+    "num_timesteps": 5440,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_06_R1_2015_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_06_R1_2015_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_06_R1_2015_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      722
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_06_R1_2015_wav--3_segments.pkl",
+    "num_segments": 11,
+    "segment_shape": [
+      11,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_06_R1_2015_wav--3_tokens.json",
+    "num_timesteps": 704,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      4405
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--4_segments.pkl",
+    "num_segments": 68,
+    "segment_shape": [
+      68,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--4_tokens.json",
+    "num_timesteps": 4352,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      5577
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--1_segments.pkl",
+    "num_segments": 87,
+    "segment_shape": [
+      87,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--1_tokens.json",
+    "num_timesteps": 5568,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_13_R1_2015_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_13_R1_2015_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_13_R1_2015_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      5102
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_13_R1_2015_wav--2_segments.pkl",
+    "num_segments": 79,
+    "segment_shape": [
+      79,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_13_R1_2015_wav--2_tokens.json",
+    "num_timesteps": 5056,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_14_R1_2015_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_14_R1_2015_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_14_R1_2015_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      8849
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_14_R1_2015_wav--3_segments.pkl",
+    "num_segments": 138,
+    "segment_shape": [
+      138,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_14_R1_2015_wav--3_tokens.json",
+    "num_timesteps": 8832,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_18_R1_2015_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_18_R1_2015_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_18_R1_2015_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      9583
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_18_R1_2015_wav--3_segments.pkl",
+    "num_segments": 149,
+    "segment_shape": [
+      149,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_18_R1_2015_wav--3_tokens.json",
+    "num_timesteps": 9536,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      5639
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--4_segments.pkl",
+    "num_segments": 88,
+    "segment_shape": [
+      88,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--4_tokens.json",
+    "num_timesteps": 5632,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_12_R2_2015_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_12_R2_2015_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_12_R2_2015_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      5615
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_12_R2_2015_wav--2_segments.pkl",
+    "num_segments": 87,
+    "segment_shape": [
+      87,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_12_R2_2015_wav--2_tokens.json",
+    "num_timesteps": 5568,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital1-3_MID--AUDIO_02_R1_2018_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital1-3_MID--AUDIO_02_R1_2018_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital1-3_MID--AUDIO_02_R1_2018_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      39327
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital1-3_MID--AUDIO_02_R1_2018_wav--1_segments.pkl",
+    "num_segments": 614,
+    "segment_shape": [
+      614,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital1-3_MID--AUDIO_02_R1_2018_wav--1_tokens.json",
+    "num_timesteps": 39296,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital17-19_MID--AUDIO_17_R1_2018_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital17-19_MID--AUDIO_17_R1_2018_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital17-19_MID--AUDIO_17_R1_2018_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      17104
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital17-19_MID--AUDIO_17_R1_2018_wav--3_segments.pkl",
+    "num_segments": 267,
+    "segment_shape": [
+      267,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital17-19_MID--AUDIO_17_R1_2018_wav--3_tokens.json",
+    "num_timesteps": 17088,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--5",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--5.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--5_full.npy",
+    "piano_roll_shape": [
+      88,
+      3906
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--5_segments.pkl",
+    "num_segments": 61,
+    "segment_shape": [
+      61,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--5_tokens.json",
+    "num_timesteps": 3904,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      7298
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--1_segments.pkl",
+    "num_segments": 114,
+    "segment_shape": [
+      114,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--1_tokens.json",
+    "num_timesteps": 7296,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      12164
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--3_segments.pkl",
+    "num_segments": 190,
+    "segment_shape": [
+      190,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--3_tokens.json",
+    "num_timesteps": 12160,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      15630
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--4_segments.pkl",
+    "num_segments": 244,
+    "segment_shape": [
+      244,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital4_MID--AUDIO_04_R1_2018_wav--4_tokens.json",
+    "num_timesteps": 15616,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital5-7_MID--AUDIO_05_R1_2018_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital5-7_MID--AUDIO_05_R1_2018_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital5-7_MID--AUDIO_05_R1_2018_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      21737
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital5-7_MID--AUDIO_05_R1_2018_wav--3_segments.pkl",
+    "num_segments": 339,
+    "segment_shape": [
+      339,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital5-7_MID--AUDIO_05_R1_2018_wav--3_tokens.json",
+    "num_timesteps": 21696,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital8_MID--AUDIO_08_R1_2018_wav--2",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital8_MID--AUDIO_08_R1_2018_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital8_MID--AUDIO_08_R1_2018_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      16873
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital8_MID--AUDIO_08_R1_2018_wav--2_segments.pkl",
+    "num_segments": 263,
+    "segment_shape": [
+      263,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital8_MID--AUDIO_08_R1_2018_wav--2_tokens.json",
+    "num_timesteps": 16832,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--3",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      4893
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--3_segments.pkl",
+    "num_segments": 76,
+    "segment_shape": [
+      76,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--3_tokens.json",
+    "num_timesteps": 4864,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--4",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      4331
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--4_segments.pkl",
+    "num_segments": 67,
+    "segment_shape": [
+      67,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_09_R1_2018_wav--4_tokens.json",
+    "num_timesteps": 4288,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_Recital9-11_MID--AUDIO_10_R1_2018_wav--5",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_10_R1_2018_wav--5.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_10_R1_2018_wav--5_full.npy",
+    "piano_roll_shape": [
+      88,
+      16353
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_10_R1_2018_wav--5_segments.pkl",
+    "num_segments": 255,
+    "segment_shape": [
+      255,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_Recital9-11_MID--AUDIO_10_R1_2018_wav--5_tokens.json",
+    "num_timesteps": 16320,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_06_Track06_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_06_Track06_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_06_Track06_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      4279
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_06_Track06_wav_segments.pkl",
+    "num_segments": 66,
+    "segment_shape": [
+      66,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_06_Track06_wav_tokens.json",
+    "num_timesteps": 4224,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_03_Track03_wav--1",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_03_Track03_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_03_Track03_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      18227
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_03_Track03_wav--1_segments.pkl",
+    "num_segments": 284,
+    "segment_shape": [
+      284,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_03_Track03_wav--1_tokens.json",
+    "num_timesteps": 18176,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_05_Track05_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_05_Track05_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_05_Track05_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      22452
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_05_Track05_wav_segments.pkl",
+    "num_segments": 350,
+    "segment_shape": [
+      350,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_05_Track05_wav_tokens.json",
+    "num_timesteps": 22400,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_12_Track12_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_12_Track12_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_12_Track12_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3939
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_12_Track12_wav_segments.pkl",
+    "num_segments": 61,
+    "segment_shape": [
+      61,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_SMF_13_01_2004_01-05_ORIG_MID--AUDIO_13_R1_2004_12_Track12_wav_tokens.json",
+    "num_timesteps": 3904,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_02_Track02_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_02_Track02_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_02_Track02_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3710
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_02_Track02_wav_segments.pkl",
+    "num_segments": 57,
+    "segment_shape": [
+      57,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_02_Track02_wav_tokens.json",
+    "num_timesteps": 3648,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      5285
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_03_Track03_wav_segments.pkl",
+    "num_segments": 82,
+    "segment_shape": [
+      82,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_03_Track03_wav_tokens.json",
+    "num_timesteps": 5248,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_04_Track04_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_04_Track04_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_04_Track04_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3486
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_04_Track04_wav_segments.pkl",
+    "num_segments": 54,
+    "segment_shape": [
+      54,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_04_Track04_wav_tokens.json",
+    "num_timesteps": 3456,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_06_Track06_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_06_Track06_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_06_Track06_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3793
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_06_Track06_wav_segments.pkl",
+    "num_segments": 59,
+    "segment_shape": [
+      59,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_SMF_16_R1_2004_01-08_ORIG_MID--AUDIO_16_R1_2004_06_Track06_wav_tokens.json",
+    "num_timesteps": 3776,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_XP_01_R1_2004_04-05_ORIG_MID--AUDIO_01_R1_2004_05_Track05_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_XP_01_R1_2004_04-05_ORIG_MID--AUDIO_01_R1_2004_05_Track05_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_XP_01_R1_2004_04-05_ORIG_MID--AUDIO_01_R1_2004_05_Track05_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      8174
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_XP_01_R1_2004_04-05_ORIG_MID--AUDIO_01_R1_2004_05_Track05_wav_segments.pkl",
+    "num_segments": 127,
+    "segment_shape": [
+      127,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_XP_01_R1_2004_04-05_ORIG_MID--AUDIO_01_R1_2004_05_Track05_wav_tokens.json",
+    "num_timesteps": 8128,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_XP_04_R1_2004_06_ORIG_MID--AUDIO_04_R1_2004_08_Track08_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_XP_04_R1_2004_06_ORIG_MID--AUDIO_04_R1_2004_08_Track08_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_XP_04_R1_2004_06_ORIG_MID--AUDIO_04_R1_2004_08_Track08_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      8500
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_XP_04_R1_2004_06_ORIG_MID--AUDIO_04_R1_2004_08_Track08_wav_segments.pkl",
+    "num_segments": 132,
+    "segment_shape": [
+      132,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_XP_04_R1_2004_06_ORIG_MID--AUDIO_04_R1_2004_08_Track08_wav_tokens.json",
+    "num_timesteps": 8448,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_XP_09_R1_2004_01-02_ORIG_MID--AUDIO_09_R1_2004_01_Track01_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_XP_09_R1_2004_01-02_ORIG_MID--AUDIO_09_R1_2004_01_Track01_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_XP_09_R1_2004_01-02_ORIG_MID--AUDIO_09_R1_2004_01_Track01_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3260
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_XP_09_R1_2004_01-02_ORIG_MID--AUDIO_09_R1_2004_01_Track01_wav_segments.pkl",
+    "num_segments": 50,
+    "segment_shape": [
+      50,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_XP_09_R1_2004_01-02_ORIG_MID--AUDIO_09_R1_2004_01_Track01_wav_tokens.json",
+    "num_timesteps": 3200,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_XP_10_R1_2004_01-02_ORIG_MID--AUDIO_10_R1_2004_02_Track02_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_XP_10_R1_2004_01-02_ORIG_MID--AUDIO_10_R1_2004_02_Track02_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_XP_10_R1_2004_01-02_ORIG_MID--AUDIO_10_R1_2004_02_Track02_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      21034
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_XP_10_R1_2004_01-02_ORIG_MID--AUDIO_10_R1_2004_02_Track02_wav_segments.pkl",
+    "num_segments": 328,
+    "segment_shape": [
+      328,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_XP_10_R1_2004_01-02_ORIG_MID--AUDIO_10_R1_2004_02_Track02_wav_tokens.json",
+    "num_timesteps": 20992,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_XP_11_R1_2004_03-04_ORIG_MID--AUDIO_11_R1_2004_04_Track04_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_XP_11_R1_2004_03-04_ORIG_MID--AUDIO_11_R1_2004_04_Track04_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_XP_11_R1_2004_03-04_ORIG_MID--AUDIO_11_R1_2004_04_Track04_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      9113
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_XP_11_R1_2004_03-04_ORIG_MID--AUDIO_11_R1_2004_04_Track04_wav_segments.pkl",
+    "num_segments": 142,
+    "segment_shape": [
+      142,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_XP_11_R1_2004_03-04_ORIG_MID--AUDIO_11_R1_2004_04_Track04_wav_tokens.json",
+    "num_timesteps": 9088,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_XP_14_R1_2004_01-03_ORIG_MID--AUDIO_14_R1_2004_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_XP_14_R1_2004_01-03_ORIG_MID--AUDIO_14_R1_2004_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_XP_14_R1_2004_01-03_ORIG_MID--AUDIO_14_R1_2004_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      17036
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_XP_14_R1_2004_01-03_ORIG_MID--AUDIO_14_R1_2004_03_Track03_wav_segments.pkl",
+    "num_segments": 266,
+    "segment_shape": [
+      266,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_XP_14_R1_2004_01-03_ORIG_MID--AUDIO_14_R1_2004_03_Track03_wav_tokens.json",
+    "num_timesteps": 17024,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_01_Track01_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_01_Track01_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_01_Track01_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      3331
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_01_Track01_wav_segments.pkl",
+    "num_segments": 52,
+    "segment_shape": [
+      52,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_01_Track01_wav_tokens.json",
+    "num_timesteps": 3328,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_03_Track03_wav",
+    "original_file": "data/processed/validation/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_03_Track03_wav.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_03_Track03_wav_full.npy",
+    "piano_roll_shape": [
+      88,
+      33639
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_03_Track03_wav_segments.pkl",
+    "num_segments": 525,
+    "segment_shape": [
+      525,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/MIDI-Unprocessed_XP_19_R1_2004_01-02_ORIG_MID--AUDIO_19_R1_2004_03_Track03_wav_tokens.json",
+    "num_timesteps": 33600,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_01_R1_2013_wav--3",
+    "original_file": "data/processed/validation/ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_01_R1_2013_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_01_R1_2013_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      4833
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_01_R1_2013_wav--3_segments.pkl",
+    "num_segments": 75,
+    "segment_shape": [
+      75,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_01_R1_2013_wav--3_tokens.json",
+    "num_timesteps": 4800,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_03_R1_2013_wav--4",
+    "original_file": "data/processed/validation/ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_03_R1_2013_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_03_R1_2013_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      7043
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_03_R1_2013_wav--4_segments.pkl",
+    "num_segments": 110,
+    "segment_shape": [
+      110,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_01_7_6_13_Group__MID--AUDIO_03_R1_2013_wav--4_tokens.json",
+    "num_timesteps": 7040,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_01_7_7_13_Group__MID--AUDIO_14_R1_2013_wav--1",
+    "original_file": "data/processed/validation/ORIG-MIDI_01_7_7_13_Group__MID--AUDIO_14_R1_2013_wav--1.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_01_7_7_13_Group__MID--AUDIO_14_R1_2013_wav--1_full.npy",
+    "piano_roll_shape": [
+      88,
+      3417
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_01_7_7_13_Group__MID--AUDIO_14_R1_2013_wav--1_segments.pkl",
+    "num_segments": 53,
+    "segment_shape": [
+      53,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_01_7_7_13_Group__MID--AUDIO_14_R1_2013_wav--1_tokens.json",
+    "num_timesteps": 3392,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_01_7_8_13_Group__MID--AUDIO_02_R2_2013_wav--5",
+    "original_file": "data/processed/validation/ORIG-MIDI_01_7_8_13_Group__MID--AUDIO_02_R2_2013_wav--5.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_01_7_8_13_Group__MID--AUDIO_02_R2_2013_wav--5_full.npy",
+    "piano_roll_shape": [
+      88,
+      5023
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_01_7_8_13_Group__MID--AUDIO_02_R2_2013_wav--5_segments.pkl",
+    "num_segments": 78,
+    "segment_shape": [
+      78,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_01_7_8_13_Group__MID--AUDIO_02_R2_2013_wav--5_tokens.json",
+    "num_timesteps": 4992,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--2",
+    "original_file": "data/processed/validation/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      6416
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--2_segments.pkl",
+    "num_segments": 100,
+    "segment_shape": [
+      100,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--2_tokens.json",
+    "num_timesteps": 6400,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--4",
+    "original_file": "data/processed/validation/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      5805
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--4_segments.pkl",
+    "num_segments": 90,
+    "segment_shape": [
+      90,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_06_R1_2013_wav--4_tokens.json",
+    "num_timesteps": 5760,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_02_7_8_13_Group__MID--AUDIO_14_R2_2013_wav--4",
+    "original_file": "data/processed/validation/ORIG-MIDI_02_7_8_13_Group__MID--AUDIO_14_R2_2013_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_02_7_8_13_Group__MID--AUDIO_14_R2_2013_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      6750
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_02_7_8_13_Group__MID--AUDIO_14_R2_2013_wav--4_segments.pkl",
+    "num_segments": 105,
+    "segment_shape": [
+      105,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_02_7_8_13_Group__MID--AUDIO_14_R2_2013_wav--4_tokens.json",
+    "num_timesteps": 6720,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_03_7_10_13_Group_MID--AUDIO_15_R3_2013_wav--2",
+    "original_file": "data/processed/validation/ORIG-MIDI_03_7_10_13_Group_MID--AUDIO_15_R3_2013_wav--2.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_03_7_10_13_Group_MID--AUDIO_15_R3_2013_wav--2_full.npy",
+    "piano_roll_shape": [
+      88,
+      6206
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_03_7_10_13_Group_MID--AUDIO_15_R3_2013_wav--2_segments.pkl",
+    "num_segments": 96,
+    "segment_shape": [
+      96,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_03_7_10_13_Group_MID--AUDIO_15_R3_2013_wav--2_tokens.json",
+    "num_timesteps": 6144,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--4",
+    "original_file": "data/processed/validation/ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--4.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--4_full.npy",
+    "piano_roll_shape": [
+      88,
+      8883
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--4_segments.pkl",
+    "num_segments": 138,
+    "segment_shape": [
+      138,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--4_tokens.json",
+    "num_timesteps": 8832,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  },
+  {
+    "filename": "ORIG-MIDI_03_7_8_13_Group__MID--AUDIO_18_R2_2013_wav--3",
+    "original_file": "data/processed/validation/ORIG-MIDI_03_7_8_13_Group__MID--AUDIO_18_R2_2013_wav--3.midi",
+    "split": "validation",
+    "piano_roll_path": "data/preprocessed_output/piano_rolls/validation/ORIG-MIDI_03_7_8_13_Group__MID--AUDIO_18_R2_2013_wav--3_full.npy",
+    "piano_roll_shape": [
+      88,
+      4470
+    ],
+    "sequence_path": "data/preprocessed_output/sequences/validation/ORIG-MIDI_03_7_8_13_Group__MID--AUDIO_18_R2_2013_wav--3_segments.pkl",
+    "num_segments": 69,
+    "segment_shape": [
+      69,
+      64,
+      88
+    ],
+    "tokens_path": "data/preprocessed_output/tokens/validation/ORIG-MIDI_03_7_8_13_Group__MID--AUDIO_18_R2_2013_wav--3_tokens.json",
+    "num_timesteps": 4416,
+    "n_pitches": 88,
+    "fs": 16,
+    "window_size": 64
+  }
+]

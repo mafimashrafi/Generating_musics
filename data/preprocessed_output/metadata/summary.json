@@ -1,0 +1,18 @@
+{
+  "splits": {
+    "train": {
+      "num_files": 962,
+      "total_segments": 143037
+    },
+    "test": {
+      "num_files": 177,
+      "total_segments": 17948
+    },
+    "validation": {
+      "num_files": 137,
+      "total_segments": 17455
+    }
+  },
+  "total_files": 1276,
+  "total_segments": 178440
+}
