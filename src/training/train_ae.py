@@ -85,8 +85,8 @@ def train_lstm_autoencoder():
         test_losses.append(test_loss)
 
         print(f"Epoch [{epoch+1:2d}/{EPOCHS}]  "
-              f"Train Loss: {train_loss:.4f}  "
-              f"Test Loss: {test_loss:.4f}")
+            f"Train Loss: {train_loss:.4f}  "
+            f"Test Loss: {test_loss:.4f}")
 
     # Save model
     os.makedirs("outputs/models/", exist_ok=True)
