@@ -1,0 +1,37 @@
+[
+    {
+        "generated_file": "markov_generated_1.mid",
+        "reference_file": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--1.midi",
+        "pitch_histogram_similarity": 0.9798281396750634,
+        "rhythm_diversity_score": 0.0006027727546714888,
+        "repetition_ratio": 0.8417874396135265
+    },
+    {
+        "generated_file": "markov_generated_2.mid",
+        "reference_file": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--2.midi",
+        "pitch_histogram_similarity": 0.9386759643706307,
+        "rhythm_diversity_score": 0.00044802867383512545,
+        "repetition_ratio": 0.8999551368326604
+    },
+    {
+        "generated_file": "markov_generated_3.mid",
+        "reference_file": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_02_R1_2014_wav--4.midi",
+        "pitch_histogram_similarity": 0.841374613556872,
+        "rhythm_diversity_score": 0.0004332755632582322,
+        "repetition_ratio": 0.899349240780911
+    },
+    {
+        "generated_file": "markov_generated_4.mid",
+        "reference_file": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_03_R1_2014_wav--4.midi",
+        "pitch_histogram_similarity": 0.4688713207807767,
+        "rhythm_diversity_score": 0.0005149330587023687,
+        "repetition_ratio": 0.8432181536874678
+    },
+    {
+        "generated_file": "markov_generated_5.mid",
+        "reference_file": "MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_04_R1_2014_wav--2.midi",
+        "pitch_histogram_similarity": 0.81352228699955,
+        "rhythm_diversity_score": 0.00041220115416323167,
+        "repetition_ratio": 0.9207593891869583
+    }
+]
