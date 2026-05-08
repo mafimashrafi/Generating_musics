@@ -1,0 +1,37 @@
+[
+    {
+        "generated_file": "generated_1.mid",
+        "reference_file": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--1.midi",
+        "pitch_histogram_similarity": 1.256532147742818,
+        "rhythm_diversity_score": 0.002352941176470588,
+        "repetition_ratio": 0.9289099526066351
+    },
+    {
+        "generated_file": "generated_2.mid",
+        "reference_file": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_01_R1_2014_wav--2.midi",
+        "pitch_histogram_similarity": 0.8685525695426685,
+        "rhythm_diversity_score": 0.004761904761904762,
+        "repetition_ratio": 0.3719806763285024
+    },
+    {
+        "generated_file": "generated_3.mid",
+        "reference_file": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_02_R1_2014_wav--4.midi",
+        "pitch_histogram_similarity": 1.5262563868673449,
+        "rhythm_diversity_score": 0.002369668246445498,
+        "repetition_ratio": 0.9236276849642004
+    },
+    {
+        "generated_file": "generated_4.mid",
+        "reference_file": "MIDI-UNPROCESSED_01-03_R1_2014_MID--AUDIO_03_R1_2014_wav--4.midi",
+        "pitch_histogram_similarity": 1.336704038291998,
+        "rhythm_diversity_score": 0.0025380710659898475,
+        "repetition_ratio": 0.9002557544757033
+    },
+    {
+        "generated_file": "generated_5.mid",
+        "reference_file": "MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_04_R1_2014_wav--2.midi",
+        "pitch_histogram_similarity": 0.5531735920070796,
+        "rhythm_diversity_score": 0.002652519893899204,
+        "repetition_ratio": 0.6764705882352942
+    }
+]
