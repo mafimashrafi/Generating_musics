@@ -238,7 +238,10 @@ Without annealing, the KL term is active from epoch 1 and penalizes any deviatio
 At generation time (no input sequence available), the decoder generates step by step — each output is fed as the next input. This is the correct VAE generation procedure and ensures `z` is actually used to condition the output.
 
 ---
+Team
 
+Subrata — Preprocessing pipeline, Task 1 training, Task 2 (VAE) design and training
+Mashrafi — Task 1 model architecture (LSTM_encoder.py), Task 3 Transformer
 ## Requirements
 
 ```
