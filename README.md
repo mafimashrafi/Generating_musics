@@ -410,3 +410,5 @@ Mashrafi — Task 1 model architecture (LSTM_encoder.py), Task 3 Transformer, Ma
     miditok
 
 See `requirements.txt` for full version-pinned list.
+
+Note: the third contributor is generated due to an auto commit via co-pilot. 
